@@ -1,0 +1,36 @@
+# Hi, I'm Arpit Kumar 👋
+
+**Threat Intelligence Researcher | Digital Forensics Specialist | OSCP Candidate**
+
+I am a Security Researcher with over 8 years of independent experience in digital forensics, offensive security, and automated threat intelligence. My primary research focuses on deconstructing sophisticated social engineering campaigns and bridging engineering logic with enterprise-grade cybersecurity defense mechanisms. 
+
+### 🕵️‍♂️ Core Research & Expertise
+
+* **Threat Actor Attribution:** Backtracking and mapping C2 infrastructure via Telegram bot metadata and OSINT.
+* **Blockchain Forensics:** Cryptographic asset recovery, including custom permutation logic for BIP39/44 seed phrase restoration.
+* **Network & Email Security:** SMTP/MTA vulnerability research, enterprise spam filter bypass analysis (SPF/DKIM/DMARC), and header forensics.
+* **Automated Threat Intel:** Developing Python-based scraping engines to aggregate and triage global phishing feeds.
+
+### 💻 Technical Arsenal
+
+* **Languages:** Python (Advanced Security Automation), Bash, SQL, JavaScript (Deobfuscation)
+* **Security & Cloud:** AWS (Cloud Practitioner), Docker, Linux/Unix, GnuPG
+* **Offensive Tools:** Metasploit, Burp Suite, Nmap, Wireshark
+* **Blue Team / Intel:** SIEM (Wazuh, Splunk), MITRE ATT&CK Framework
+
+### 🚀 Featured Architecture & Tooling (Pinned Repositories)
+
+* 🛡️ **Global Phishing Intelligence Engine:** A real-time data aggregator for malware triage.
+* 🔍 **Telegram Forensic Attribution Toolkit:** A framework for extracting C2 server locations from compromised bot tokens.
+* 🔐 **BIP39 Cryptographic Recovery Suite:** A forensic recovery tool utilizing checksum validation to restore corrupted digital assets.
+
+### 📫 Let's Connect
+
+* **Email:** [contact@arpitkumar.me](mailto:contact@arpitkumar.me)
+* **LinkedIn:** [Arpit Kumar](https://www.linkedin.com/in/arpit-kumar-80b261264/)
+* **Portfolio/Resume:** [Available upon request]
+
+---
+*"Securing the digital frontier through logic-based engineering and proactive threat intelligence."*
+
+
